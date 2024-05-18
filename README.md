@@ -1,5 +1,5 @@
 
-Hi, this is Rea a non-binary human being in their late forties. I live somewhere in the center of Europe and am currently teaching myself how to code in HTML, CSS and Python. 
+Hi, this is Fanou, a non-binary human being in their late forties. I live somewhere in the center of Europe and am currently teaching myself how to code in HTML, CSS and Python. 
 
 
 
